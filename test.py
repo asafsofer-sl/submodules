@@ -1,5 +1,5 @@
 import gen_plot
-from clearml import Task
+from allegroai import Task
 
 
 task = Task.init(project_name='runai/devops', task_name='Asaf plotly')
